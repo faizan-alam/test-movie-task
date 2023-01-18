@@ -1,0 +1,10 @@
+.root-movie-item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+}

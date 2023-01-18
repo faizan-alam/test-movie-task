@@ -1,0 +1,13 @@
+.search-root-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  .search-drop-down {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    > div {
+      margin-left: 10px;
+    }
+  }
+}
